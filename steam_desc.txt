@@ -1,0 +1,45 @@
+Ever wanted to play as Sparta with two kings instead of one? Well now you can! Now updated for Marius Patch - Imperator 2.0
+
+Please allow a minute on the first loading of this mod because it has an edit to the GUI. 
+
+This mod works perfectly with Julianos "Sparta Refined" flag and colour mod found here. 
+https://steamcommunity.com/workshop/filedetails/?id=2127254320
+
+[h1][b]Update 6th May 2021[/b][/h1]
+
+Compatibility fix for commander kings. Note that spartan Co-Basileus is free to lead the legion and the Basileus commands levies. Next update will add a decision to swap the kings positions as you desire.
+
+[h1][b]Update 21st March 2021 for Patch 2.0.3[/b][/h1]
+
+Sparta now changes its government form to Spartan Diarchy at the start of the game rather than through setup to allow compatibility with mods that need to touch character or country setup. This means that at the game start screen you will not see that Sparta has a Spartan Diarchy government form. You will however notice the change when you start the game. This allows the mod to be compatible with bloodlines as requested. 
+
+Further, bringing your co-Basileus to trial is no longer possible, mainly because that would be ahistorical, but also because it would be a decent amount of work to script for this possibility. 
+
+Note: Some other mods touch the government UI - If you intend to use the commander kings mod with this mod for example in multiplayer load this mod afterwards. I also advise that Bigger Government is no longer compatible for a short period. 
+
+[h1][b]This mod adds:[/b][/h1]
+
+1. Adds a Co-Basileus to the monarchy in Sparta so that it is now a true diarchy.
+2. Succession is not shown in tooltips before the co-Basileus dies. This is because succession is scripted upon death.
+3. Co-Basileus is very loyal to the state as he is effectively equal to the Basileus.
+4. Spartan Heritage is changed so that the negative aspect of the heritage reduces slave happiness instead of output
+5. Basic Spartan Diarchy has one religious idea to differentiate it a little more from the vanilla "stratocratic" monarchy.
+6. Can arrange marriage for all members of the ruling families. 
+
+[h1][b]Bug Fixes included in this mod:[/b][/h1]
+
+1. Primary heirs that belong to the same family as the ruler will now always get the appropriate gold and holdings from the former king. 
+2. Wealthy children that die will no longer give more money than they had to those who would inherit.
+
+[h1][b]Notes on Mod Compatibility:[/b][/h1]
+
+This mod will now be compatible with bloodlines. I cannot gaurantee compatibility with mods that touch government forms, but it should be now. 
+
+[h1][b]Enjoy![/b][/h1]
+
+Master_Of_Experts
+[Army of Two] AXIS
+
+[h1][b]Thanks to:[/b][/h1]
+
+Members of the Imperator Modding Discord
