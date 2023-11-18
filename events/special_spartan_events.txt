@@ -13,6 +13,7 @@ special_spartan_event.1 = {
 	}
 	
 	immediate = {
+		set_global_variable = spartankings_installed
 		create_character = {
 			first_name="Archidamus"
 			family_name="Eurypontid"
